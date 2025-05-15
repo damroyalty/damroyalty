@@ -1,9 +1,9 @@
-## damroyalty🥀
+# damroyalty🥀
 =============================
 
 fullstack🎯 for fun till i go back to school📚
 
-# socials
+## socials
 instagram.com/damroyalty/
 linktr.ee/damroyalty
 x.com/damroyalty
