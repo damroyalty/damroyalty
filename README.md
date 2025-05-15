@@ -4,7 +4,7 @@
 fullstack🎯 for fun till i go back to school📚
 
 ## socials
-instagram.com/damroyalty/
+instagram.com/damroyalty
 
 linktr.ee/damroyalty
 
