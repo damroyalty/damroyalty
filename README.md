@@ -2,7 +2,7 @@
 hi, learning fullstack stuff in between music, real estate, school, & making derpy content.  
   
 [Website](https://linktr.ee/damroyalty/)  
-[Twitter](https://twitter.com/damroyalty)
+[Twitter](https://twitter.com/damroyalty) 
 [Instagram](https://www.instagram.com/damroylty) 
 [Discord](https://discord.gg/kDs2mmQwwS) 
 
