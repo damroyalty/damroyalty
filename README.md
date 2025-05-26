@@ -1,7 +1,7 @@
 <p align=center><h1>damroyalty 🥀 devroyalty</h1><p>  
 hi, learning fullstack stuff in between school, music, real estate, & making scuffed content.  
   
-[Linktree](https://linktr.ee/damroyalty/)🔘[Twitter](https://twitter.com/damroyalty)🔘[Instagram](https://www.instagram.com/damroylty)🔘[Discord](https://discord.gg/kDs2mmQwwS) 
+[Linktree](https://linktr.ee/damroyalty/)🔘[Twitter](https://twitter.com/damroyalty)🔘[Instagram](https://www.instagram.com/damroylty)
 
 <!--
 **damroyalty/damroyalty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
