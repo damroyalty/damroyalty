@@ -1,5 +1,5 @@
 <p align=center><h1>damroyalty 🥀 devroyalty</h1><p>  
-hi, building apps & sl scripts in between school, music, real estate, & making scuffed content.  
+hi  
   
 [Linktree](https://linktr.ee/damroyalty/)🔘[Twitter](https://twitter.com/damroyalty)🔘[Instagram](https://www.instagram.com/damroylty)
 
