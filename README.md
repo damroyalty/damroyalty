@@ -1,7 +1,7 @@
 <p align=center><h1>damroyalty 🥀 dev.sakura on SL </h1><p>  
 hi  
 
-SL
+Second Life
 [carrd](devsakura.carrd.co)🔘[SecondPix admin](https://www.secondpix.com/)
 
 IRL
