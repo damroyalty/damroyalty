@@ -2,9 +2,11 @@
 hi  
 
 SL
+
 [carrd](devsakura.carrd.co)🔘[SecondPix admin](https://www.secondpix.com/)
 
 IRL
+
 [Linktree](https://linktr.ee/dev.xxii/)🔘[Twitter](https://twitter.com/devsakura)🔘[Instagram](https://www.instagram.com/devsakura_)
 
 <!--
