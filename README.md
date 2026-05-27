@@ -1,10 +1,10 @@
 <p align=center><h1>damroyalty 🥀 dev.sakura on SL </h1><p>  
 hi  
 
-Second Life
+Second Life<br>
 [carrd](devsakura.carrd.co)🔘[SecondPix admin](https://www.secondpix.com/)
 
-IRL
+IRL<br>
 [Linktree](https://linktr.ee/dev.xxii/)🔘[Twitter](https://twitter.com/devsakura)🔘[Instagram](https://www.instagram.com/devsakura_)
 
 <!--
