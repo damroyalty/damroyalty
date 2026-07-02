@@ -7,7 +7,7 @@ Second Life<br>
 IRL<br>
 [Linktree](https://linktr.ee/dev.xxii/)🔘[Twitter](https://twitter.com/devsakura)🔘[Instagram](https://www.instagram.com/devsakura_)
 
-<img src="https://skillicons.dev" height="40" alt="JavaScript Logo" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" />
 
 <!--
 **damroyalty/damroyalty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
