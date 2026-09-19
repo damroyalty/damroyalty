@@ -2,7 +2,7 @@
 hi  
 
 IRL<br>
-[socials](https://devroyalty.carrd.co/))🔘[Twitter](https://twitter.com/devsakura)🔘[Instagram](https://www.instagram.com/devsakura_)
+[socials](https://devroyalty.carrd.co/)🔘[Twitter](https://twitter.com/devsakura)🔘[Instagram](https://www.instagram.com/devsakura_)
 
 Second Life<br>
 [carrd](devsakura.carrd.co)
